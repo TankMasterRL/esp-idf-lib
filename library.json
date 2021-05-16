@@ -1,0 +1,8 @@
+{
+    "name": "esp-idf-lib",
+    "version": "0.0.0",
+    "build": {
+        "includeDir": "components",
+        "srcDir": "components"
+    }
+}
